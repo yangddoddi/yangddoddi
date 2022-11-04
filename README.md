@@ -1,7 +1,4 @@
 <div align="center">
-  <br />
-  <br />
-  
 ### BLOG LINK <br />
   <a href="https://7357.tistory.com/">
    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
