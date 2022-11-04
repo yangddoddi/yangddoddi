@@ -44,7 +44,7 @@
   <br />
  
   <br /><br />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pud1251)](https://solved.ac/pud1251/)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pud1251)](https://solved.ac/pud1251/)
   
 </div>
